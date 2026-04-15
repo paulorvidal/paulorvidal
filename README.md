@@ -1,8 +1,5 @@
-# Olá, eu sou o Paulo Vidal! 
-
-Desenvolvedor Full Stack | Mestrando em Ciência da Computação
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2CA5E0&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+o+Paulo+Vidal!+%F0%9F%91%8B;Desenvolvedor+Full+Stack;Mestrando+em+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Especialista+em+Java+%2B+Spring+Boot" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2CA5E0&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+o+Paulo+Vidal;Desenvolvedor+Full+Stack;Mestrando+em+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Especialista+em+Java+%2B+Spring+Boot" alt="Typing SVG" />
 </div>
 
 <div align="center">
