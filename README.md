@@ -3,7 +3,6 @@
 </div>
 
 <div align="center">
-  <p><em>Transformando café e lógica em software escalável e arquitetura limpa.</em></p>
   <a href="https://linkedin.com/in/seu-perfil" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
