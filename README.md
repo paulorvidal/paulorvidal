@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="https://linkedin.com/in/seu-perfil" target="_blank">
+  <a href="https://linkedin.com/in/paulo-vidal-0172a8235/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:prvidal00@gmail.com">
