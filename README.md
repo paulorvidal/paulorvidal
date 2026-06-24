@@ -21,7 +21,6 @@
         <ul>
           <li>🎓 <strong>Acadêmico:</strong> Graduado em TADS (IFPR).</li>
           <li>⚙️ <strong>Engenharia:</strong> Foco total em construir APIs RESTful robustas, com forte base em SOLID e Clean Code.</li>
-          <li>🚀 <strong>Prática:</strong> Experiência em projetos reais (TCC e 210h de extensão acadêmica), aplicando Gitflow e Code Reviews.</li>
           <li>🐧 <strong>Ambiente:</strong> Usuário diário de distribuições Linux (Debian/Ubuntu), fã de conteinerização e automação.</li>
         </ul>
       </td>
